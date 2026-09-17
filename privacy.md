@@ -119,7 +119,8 @@ We use a small number of service providers. Each receives only what it needs.
 | **Apple / Google Play** | Your payment | The app store processes payment; we never see card details |
 
 Photos and ingredient lists sent to OpenAI are processed to return a result and
-are not used to train their models. Details are in the
+are not used to train their models. OpenAI may hold them for a short period to
+check for misuse of its service, and then deletes them. Details are in the
 [OpenAI API data usage policy](https://openai.com/policies/api-data-usage-policies).
 
 We may also disclose information if we are legally required to do so, or where it

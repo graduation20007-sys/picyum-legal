@@ -143,7 +143,9 @@ You may stop using Picyum at any time and delete your account in
 
 We may suspend or end your access if you break these terms, if we are required to
 by law, or if we discontinue the service. Where we end your access without cause,
-we will refund the unused part of any period you have paid for.
+email us at picyumai@gmail.com and we will support your refund request to the
+store for the unused part of any period you have paid for. The store, not us,
+issues the refund, because the store is what billed you.
 
 ## 12. Disclaimer
 
