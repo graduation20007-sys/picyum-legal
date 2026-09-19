@@ -22,9 +22,11 @@ tracking across other apps or websites, and no sale of personal information.
 
 ### Account information
 
-When you create an account we receive your **email address** and, if you sign in
-with Google, the basic profile information Google returns for sign-in. We never
-receive your Google password.
+When you create an account we receive your **email address**. If you sign in with
+Google we also receive the basic profile information Google returns for sign-in.
+If you sign in with Apple and choose **Hide My Email**, we only ever receive the
+private relay address Apple generates for us, not your real one. We never receive
+your Google or Apple password.
 
 ### Health and fitness information
 
@@ -116,6 +118,7 @@ We use a small number of service providers. Each receives only what it needs.
 | **Supabase** | All account, profile, meal and photo data | Database, authentication and file storage |
 | **RevenueCat** | A pseudonymous user identifier and purchase receipts | To manage subscriptions and restore purchases |
 | **Google** | Your sign-in request | Only if you choose to sign in with Google |
+| **Apple** | Your sign-in request | Only if you choose to sign in with Apple |
 | **Apple / Google Play** | Your payment | The app store processes payment; we never see card details |
 
 Photos and ingredient lists sent to OpenAI are processed to return a result and
