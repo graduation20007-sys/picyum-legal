@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Picyum
 
-**Last updated:** 17 September 2026
+**Last updated:** 19 September 2026
 
 Picyum ("the app", "we", "us") is a food logging app that reads a photo of a meal
 and estimates its nutrition. This policy explains what the app collects, why, who
@@ -86,7 +86,6 @@ advertising identifiers, or any payment card details.
 - to keep your records available on your account
 - to apply fair-use limits to AI requests and to control our costs
 - to manage your subscription and restore purchases
-- to send reminder notifications, if you turn them on
 - to diagnose errors and improve accuracy
 
 We do not use your data to train AI models, and we do not permit our AI provider
@@ -103,8 +102,6 @@ requires us to have a legal basis for each use. Ours are:
 - **Our legitimate interests** — keeping the service secure, preventing abuse,
   applying fair-use limits to control our costs, and diagnosing errors. We use no
   more than these purposes need.
-- **Your consent** — reminder notifications, which stay off unless you turn them
-  on. You can withdraw consent at any time in the app.
 - **Compliance with a legal obligation** — where the law requires us to keep or
   disclose information.
 
@@ -183,9 +180,8 @@ behavioural advertising.
 
 ## 8. Children
 
-Picyum is not intended for children. You must be at least 13 years old to use it,
-or at least 16 if you are in the European Economic Area or the United Kingdom. We
-do not knowingly collect information from children below that age. If you believe
+Picyum is not intended for children. You must be at least 13 years old to use it.
+We do not knowingly collect information from anyone below that age. If you believe
 a child has given us their information, email **picyumai@gmail.com** and we will
 delete it.
 

@@ -5,7 +5,7 @@ title: Terms of Use
 
 # Terms of Use for Picyum
 
-**Last updated:** 17 September 2026
+**Last updated:** 19 September 2026
 
 These terms are an agreement between you and Jin (Picyum) ("we", "us") for
 your use of the Picyum app. By downloading or using Picyum you accept them. If you
@@ -43,9 +43,9 @@ figures you enter. They take no account of your medical history.
 
 ## 3. Who may use Picyum
 
-You must be at least 13 years old, or at least 16 if you are in the European
-Economic Area or the United Kingdom. If you are under the age of majority where
-you live, you may only use Picyum with the consent of a parent or guardian.
+You must be at least 13 years old to use Picyum. If you are under the age of
+majority where you live, you may only use Picyum with the consent of a parent or
+guardian.
 
 ## 4. Your account
 
